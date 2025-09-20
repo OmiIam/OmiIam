@@ -12,8 +12,8 @@ As a solo developer, I own the entire frontend lifecycle — from translating UI
 - Apply a **fullstack mindset** (Node.js, Express.js, SQL) when needed  
 
 ### 📌 Featured Projects
-🔗 [Law Firm Website](#) — Full Next.js/Express project with GSAP animations(Repo is now private)  
-🔗 [Minimalist Portfolio](#) — My own portfolio showcasing design + frontend skills  
+🔗 [Law Firm Website](https://ejewekelegal.com) — Full Next.js/Express project with GSAP animations(Repo is now private)  
+🔗 [Minimalist Portfolio](https://omiigoniwari-portfolio.vercel.app/) — My own portfolio showcasing design + frontend skills  
 
 ### 🛠️ Tech Stack
 **Frontend:** React, Next.js, GSAP, Tailwind CSS  
