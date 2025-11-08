@@ -3,7 +3,7 @@
 
 ##  Who even am I? 
 I actively build intelligent web platforms and legal tech tools that drive transparency and access to justice at the current time.
-Currently: Developing an AI-powered public project-audit platform built for Nigerian civic systems.
+Currently: Developing a decentralized public project-audit platform built for Nigerian civic systems.
 
 ## 🛠️ Tech Stack  
 | Frontend | Backend | AI / Data | DevOps |
@@ -11,9 +11,8 @@ Currently: Developing an AI-powered public project-audit platform built for Nige
 | Next.js • React • TypeScript | Node.js • Go • Express | Python • Tensorflow • ML-Pipelines | GitHub Actions • Docker • Linode |
 
 ## 🚀 Featured Projects  
-- **EagleEye-Platform** – AI-driven public project-tracking web app.  
-- **LegalDoc-Generator** – Template-based document automation for law firms.  
-- **LawFirm-Website-Build** – Swiss-design React + Vite site for a Nigerian legal firm.  
+- **EagleEye-Platform** – Decentralized public project-tracking web app.  
+- **LegalDoc-Generator** – Template-based document automation for law firms.   
 - **AI-Legal-Assistant** – NLP chat-bot prototype for legal queries in Nigerian context.  
 - **DSA-Repo** – Clean implementations and explanations of data structures & algorithms in Go and Python.
 
