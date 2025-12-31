@@ -1,26 +1,89 @@
-# Godson “Omi” Igoniwari   
-**Software Engineer | AI & Web | LawTech Advocate**
+<h1 align="center">Godson “Omi” Igoniwari</h1>
 
-##  Who even am I? 
-I actively build intelligent web platforms and legal tech tools that drive transparency and access to justice at the current time.
-Currently: Developing a decentralized public project-audit platform built for Nigerian civic systems.
+<p align="center">
+  Software Engineer · 5+ Years Experience<br/>
+  Systems oriented · Tool agnostic · Architecture driven
+</p>
 
-## 🛠️ Tech Stack  
-| Frontend | Backend | AI / Data | DevOps |
-|----------|---------|-----------|--------|
-| Next.js • React • TypeScript | Node.js • Go • Express | Python • Tensorflow • ML-Pipelines | GitHub Actions • Docker • Linode |
+<p align="center">
+  <a href="https://www.rust-lang.org/">
+    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  </a>
+</p>
 
-## 🚀 Featured Projects  
-- **EagleEye-Platform** – Decentralized public project-tracking web app.  
-- **LegalDoc-Generator** – Template-based document automation for law firms.   
-- **AI-Legal-Assistant** – NLP chat-bot prototype for legal queries in Nigerian context.  
-- **DSA-Repo** – Clean implementations and explanations of data structures & algorithms in Go and Python.
+---
 
-## 🎓 Currently Learning  
-Deep-reinforcement in ML workflows + Go-based microservices for backend AI.
+## About
 
-## 📫 Connect with me  
-- LinkedIn: linkedin.com/in/godson-igoniwari  
-- Email: omiigoniwari@gmail.com  
+I am a software engineer with over five years of professional experience designing and building reliable software systems.
 
-Thank you for visiting, and hey if you're interested, let’s build something impactful!  
+My work spans backend services, frontend applications, and developer tooling. I prioritize **clear system boundaries, documented decisions, and maintainable codebases**. I am comfortable working across stacks and adapting quickly to new tools when the problem demands it.
+
+Outside engineering, I play **guitar and piano**, applying the same discipline and structured thinking to music as I do to software.
+
+---
+
+## Technical Focus
+
+**Primary Languages**
+- Rust
+- Python
+- TypeScript
+
+**Engineering Areas**
+- Backend systems and APIs
+- Frontend applications
+- System design and architecture
+- Developer productivity tooling
+- Performance and reliability
+
+**Working Style**
+- Tool agnostic and pragmatic
+- Documentation first where decisions matter
+- Focused on long term maintainability over short term hacks
+
+---
+
+## Selected Projects
+
+These repositories represent my most intentional and well documented work. Each project is scoped, reasoned about, and maintained with architectural clarity.
+
+### DevFlow
+Developer focused task manager that treats context switching as a first class concept.  
+Frontend authoritative MVP with explicit architectural decision records and roadmap.
+
+---
+
+## Engineering Standards
+
+- **Architecture:** Decisions documented via ADRs
+- **Code Quality:** Readable, explicit, and intentional
+- **Commits:** Descriptive, scoped, and review friendly
+- **Testing & CI:** Applied where it adds real value
+
+I optimize for systems that can evolve without rewrites.
+
+---
+
+## Current Interests
+
+- Systems design and internal architecture
+- Rust for performance sensitive components
+- Developer tooling and workflow optimization
+- Backend heavy, infrastructure aware systems
+
+---
+
+## Contact
+
+- GitHub: https://github.com/OmiIam  
+- LinkedIn: https://www.linkedin.com/in/godson-igoniwari/
+- Email: omiigoniwari@gmail.com
+
+---
